@@ -1,6 +1,6 @@
 # usearch_old_binaries
 
-Donated to the public domain with CC0-1.0 license.
+Donated to the public domain with CC0-1.0 license. Source code is not included and there are no plans to make source public.
 
 Below are links and MD5 checksums. To download from GitHub, click link then view raw. Or, clone the repository and all the binaries will be in the `bin/` directory.
 
