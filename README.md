@@ -2,7 +2,7 @@
 
 Donated to the public domain with CC0-1.0 license.
 
-Below are links and MD5 checksums.
+Below are links and MD5 checksums. To download from GitHub, click link then view raw. Or, clone the repository and all the binaries will be in the `bin/` directory.
 
 `0afb1df880a0bf3933d2ded3e2d33d16` [usearch11.0.667_i86linux32](bin/usearch11.0.667_i86linux32)   
 `fa050a3029d33b7b25036a2cc8c6da97` [usearch11.0.667_i86linux64](bin/usearch11.0.667_i86linux64)   
