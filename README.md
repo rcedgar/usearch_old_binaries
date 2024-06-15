@@ -1,5 +1,10 @@
 # usearch_old_binaries
 
+Donated to the public domain with CC0-1.0 license.
+
+Below are links and MD5 checksums.
+
+
 `0afb1df880a0bf3933d2ded3e2d33d16` [usearch11.0.667_i86linux32](bin/usearch11.0.667_i86linux32)   
 `fa050a3029d33b7b25036a2cc8c6da97` [usearch11.0.667_i86linux64](bin/usearch11.0.667_i86linux64)   
 `f91fa82a9cb7dab629c2906884b20558` [usearch11.0.667_i86osx32](bin/usearch11.0.667_i86osx32)   
